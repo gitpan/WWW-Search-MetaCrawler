@@ -1,0 +1,15 @@
+
+MetaCrawler.pm requires WWW::Search.
+
+Additional information on using this script and changelog
+may be found in MetaCrawler.pm POD doc's or, after installation, view the 
+man pages with man MetaCrawler
+
+For instructions on how to install the script, see the
+file INSTALL.
+
+See also http://www.perl.com/CPAN-local/modules/by-module/WWW/
+For latest WWW::Search version and additional documentation.
+
+Auto genereated by makeMOD.pl by Jim Smyser
+
